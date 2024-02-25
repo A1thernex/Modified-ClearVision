@@ -1,5 +1,5 @@
 /* IMPORT CSS */
-@import url(https://clearvision.github.io/ClearVision-v6/main.css);
+@import url(https://raw.githubusercontent.com/A1thernex/Modified-ClearVision/main/main.css);
 
 /* SETTINGS */
 :root {
